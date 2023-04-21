@@ -1,0 +1,14 @@
+.login-succes{
+ width: max-content;
+ margin-bottom: auto;
+margin-right: auto;
+padding: 20px 20px;
+background-color: green;
+}
+.login-failed{
+    width: max-content;
+    margin-bottom: auto;
+   margin-right: auto;
+   padding: 20px 20px;
+   background-color: red;
+}

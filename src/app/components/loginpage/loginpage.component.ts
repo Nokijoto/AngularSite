@@ -13,7 +13,7 @@ export class LoginpageComponent implements OnInit {
   constructor()
   {
     console.log("Wywołanie logowania");
-    this.isLogin= true;
+    this.isLogin= false;
     if(this.isLogin){
       this.title= "Zalogowano";
       this.loginStatus="Zalogowano";

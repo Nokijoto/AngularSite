@@ -1,0 +1,11 @@
+div
+{
+    border: 1px dotted lightseagreen;   
+}
+.container
+{
+
+    grid-auto-rows: min-content(120px,auto);
+    grid-auto-columns: min-content(120px,auto);
+    background-color: whitesmoke;
+}
